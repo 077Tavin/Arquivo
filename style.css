@@ -1,0 +1,12 @@
+body{
+    color: aqua;
+    background-color:blueviolet ;
+}
+header{
+    border-bottom: solid 2px rgb(rgba(255, 0, 0, 0.486), rgb(0, 255, 0), rgb(0, 0, 129));
+    padding: 20px;
+    font-size: 32px;
+    color: aquamarine;
+}
+
+    
